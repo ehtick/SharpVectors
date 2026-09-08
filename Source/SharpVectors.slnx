@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="SharpVectorConvertersWpf/SharpVectors.Converters.Wpf.csproj" />
+  <Project Path="SharpVectorCore/SharpVectors.Core.csproj" />
+  <Project Path="SharpVectorCss/SharpVectors.Css.csproj" />
+  <Project Path="SharpVectorDom/SharpVectors.Dom.csproj" />
+  <Project Path="SharpVectorModel/SharpVectors.Model.csproj" />
+  <Project Path="SharpVectorRenderingGdi/SharpVectors.Rendering.Gdi.csproj" />
+  <Project Path="SharpVectorRenderingWpf/SharpVectors.Rendering.Wpf.csproj" />
+  <Project Path="SharpVectorRuntimeWpf/SharpVectors.Runtime.Wpf.csproj" />
+  <Project Path="SharpVectorScripting/SharpVectors.Scripting.csproj" />
+</Solution>

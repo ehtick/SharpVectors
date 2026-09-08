@@ -1,3 +1,17 @@
+### Release 1.8.6
+    * Improved: Hit-test implementations (contributed by @bluelightcsy).
+    * Improved: Design-mode implementations.
+    * Improved: Viewport support.
+    * Improved: Masking and Clipping support.
+    * Improved: Documentations.
+    * Fixed: Style declaration ending bracket missing.
+    * Fixed: Fontweight resolution and fallback.
+    * Fixed: Color conversion exception.
+    * Added: Support for .NET 10.0.
+    * Added: Paint Order support.
+    * Added: A converter, SvgToBitmapValueConverter, as alternative to image source.
+    * Added: Unit testing project, made styling declaration directly testable.
+
 ### Release 1.7.6
     * WPF: Font Family support improvements
     * WPF: Fallback use of AppDomain.Current.BaseDirectory instead of Assembly.Location (by @MihailsKuzminsDG)
